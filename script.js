@@ -1,1 +1,2 @@
-console.log("hello from script");
+console.log("first paragraph added");
+console.log("second paragraph added");
